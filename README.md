@@ -1,5 +1,3 @@
-# Project Completion
-
 Simon Huynh completed this project on Jan 17th, 2023
 
 # Hands-On Introduction: Java 
